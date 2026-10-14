@@ -10,6 +10,8 @@ MQL5 port of **FVG Sniper [JOAT]**: graded fair value gaps, mitigation and inver
 
 AlgoToolbox is the primary home for the MT5 project's documentation. This repository is the secondary source-code repository, not the full manual.
 
+<img width="1360" height="637" alt="fvgsniper_04" src="https://github.com/user-attachments/assets/141929c0-f3c7-43bd-901e-4f4aba36094c" />
+
 **Page status:** The product-page address is reserved; the article is being prepared. Until it is published, that link may return a not-found page.
 
 ## Source snapshot
